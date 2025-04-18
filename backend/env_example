@@ -1,0 +1,9 @@
+MONGO_URI=mongodb://localhost:27017/greenheaven 
+PORT=5000 
+JWT_SECRET=greenheaven1234567890
+EMAIL_HOST=smtp.gmail.com
+EMAIL_PORT=587
+EMAIL_USER=hbendhiba46@gmail.com
+EMAIL_PASS=ahzm wzmf iqel virl
+
+
